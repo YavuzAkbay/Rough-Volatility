@@ -145,7 +145,7 @@ rough_vol = np.convolve(abs_returns, kernel_normalized, mode='same')
 
 ## 📝 License
 
-This project is licensed under the GPL v3 - see the (https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) file for details.
+This project is licensed under the GPL v3 - see the [(https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) file for details.
 
 ## ⚠️ Disclaimer
 
